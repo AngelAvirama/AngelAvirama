@@ -1,16 +1,65 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**AngelAvirama/AngelAvirama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ¡Hola! Soy Ángel David Avirama 👋
 
-Here are some ideas to get you started:
+### Estudiante de Ingeniería de Sistemas · Full Stack Developer · Data Science Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Noveno semestre en la <strong>Universidad de Medellín</strong>. Me interesa construir aplicaciones web, desarrollar soluciones backend y explorar el potencial de los datos y el aprendizaje automático.</p>
+
+<a href="https://github.com/AngelAvirama"><img src="https://img.shields.io/badge/GitHub-AngelAvirama-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="mailto:Aviramadeoroangel@gmail.com"><img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+</div>
+
+---
+
+## Sobre mí
+
+Soy estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad de Medellín. Me interesa participar en el ciclo completo de desarrollo de software: comprender problemas, diseñar soluciones, construir interfaces, desarrollar APIs, integrar bases de datos y desplegar aplicaciones.
+
+He trabajado en proyectos académicos y colaborativos de desarrollo Full Stack, infraestructura cloud y Machine Learning. Disfruto aprender nuevas tecnologías, resolver problemas y trabajar en equipo para convertir ideas en soluciones útiles.
+
+- 🎓 **Formación:** Ingeniería de Sistemas — Universidad de Medellín.
+- 💻 **Interés principal:** desarrollo de software y aplicaciones web Full Stack.
+- 📊 **Interés complementario:** ciencia de datos y Machine Learning.
+- ☁️ **Experiencia en proyectos:** APIs REST, bases de datos y despliegues en AWS.
+- 🏆 **Reconocimiento:** ganador de la Feria del Software 2025 de la Universidad de Medellín con Tramix.
+- 🤝 **Abierto a:** oportunidades de prácticas, colaboración y proyectos de desarrollo.
+
+## Tecnologías y herramientas
+
+### Lenguajes
+<p><img src="https://skillicons.dev/icons?i=js,ts,python,java,cs,dart&perline=6" alt="Lenguajes"></p>
+
+### Frontend
+<p><img src="https://skillicons.dev/icons?i=html,css,angular,react,nextjs,flutter,tailwind,bootstrap&perline=8" alt="Frontend"></p>
+
+### Backend y bases de datos
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,spring,postgres,mysql,mongodb,supabase,firebase,prisma&perline=8" alt="Backend y bases de datos"></p>
+
+### Cloud, DevOps y herramientas
+<p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,figma,vscode,linux&perline=8" alt="Cloud y herramientas"></p>
+
+### Ciencia de datos
+<p><img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib,jupyter&perline=6" alt="Ciencia de datos"></p>
+
+## GitHub
+
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelAvirama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAvirama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados">
+<img src="https://streak-stats.demolab.com?user=AngelAvirama&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
+</div>
+
+## Idiomas
+
+- 🇪🇸 Español: nativo.
+- 🇬🇧 Inglés: B2 — certificación de la Universidad de Medellín.
+
+---
+
+<div align="center">
+
+**Gracias por visitar mi perfil. ¡Conectemos y construyamos algo interesante!** 🚀
+
+</div>
