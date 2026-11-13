@@ -53,8 +53,7 @@ He trabajado en proyectos académicos y colaborativos de desarrollo Full Stack, 
 
 <div align="center">
 
-<img height="165" src="./profile/stats.svg" alt="Estadísticas de GitHub">
-<img height="165" src="./profile/top-langs.svg" alt="Lenguajes más utilizados">
+<img height="220" src="./profile/top-langs.svg" alt="Lenguajes más utilizados">
 
 <img src="https://streak-stats.demolab.com?user=AngelAvirama&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
 
