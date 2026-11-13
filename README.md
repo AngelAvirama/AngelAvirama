@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola! Soy Ángel David Avirama 👋
+# ¡Hola! Soy Ángel David Avirama
 
 ### Estudiante de Ingeniería de Sistemas · Full Stack Developer · Data Science Enthusiast
 
@@ -24,7 +24,6 @@ He trabajado en proyectos académicos y colaborativos de desarrollo Full Stack, 
 - 📊 **Interés complementario:** ciencia de datos y Machine Learning.
 - ☁️ **Experiencia en proyectos:** APIs REST, bases de datos y despliegues en AWS.
 - 🏆 **Reconocimiento:** ganador de la Feria del Software 2025 de la Universidad de Medellín con Tramix.
-- 🤝 **Abierto a:** oportunidades de prácticas, colaboración y proyectos de desarrollo.
 
 ## Tecnologías y herramientas
 
@@ -41,25 +40,30 @@ He trabajado en proyectos académicos y colaborativos de desarrollo Full Stack, 
 <p><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,figma,vscode,linux&perline=8" alt="Cloud y herramientas"></p>
 
 ### Ciencia de datos
-<p><img src="https://skillicons.dev/icons?i=python,numpy,pandas,sklearn,matplotlib,jupyter&perline=6" alt="Ciencia de datos"></p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Scikit-learn">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+</p>
 
 ## GitHub
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=AngelAvirama&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Estadísticas de GitHub">
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelAvirama&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Lenguajes más utilizados">
+
+<img height="165" src="./profile/stats.svg" alt="Estadísticas de GitHub">
+<img height="165" src="./profile/top-langs.svg" alt="Lenguajes más utilizados">
+
 <img src="https://streak-stats.demolab.com?user=AngelAvirama&theme=tokyonight&hide_border=true" alt="Racha de contribuciones">
+
 </div>
-
-## Idiomas
-
-- 🇪🇸 Español: nativo.
-- 🇬🇧 Inglés: B2 — certificación de la Universidad de Medellín.
 
 ---
 
 <div align="center">
 
-**Gracias por visitar mi perfil. ¡Conectemos y construyamos algo interesante!** 🚀
+**Gracias por visitar mi perfil. ¡Conectemos y construyamos algo interesante!**
 
 </div>
