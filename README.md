@@ -9,6 +9,7 @@
 <a href="https://github.com/AngelAvirama"><img src="https://img.shields.io/badge/GitHub-AngelAvirama-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
 <a href="mailto:Aviramadeoroangel@gmail.com"><img src="https://img.shields.io/badge/Email-Contactarme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
+Mi portafolio: https://angel-portfolio-topaz.vercel.app/
 </div>
 
 ---
@@ -19,11 +20,10 @@ Soy estudiante de noveno semestre de Ingeniería de Sistemas en la Universidad d
 
 He trabajado en proyectos académicos y colaborativos de desarrollo Full Stack, infraestructura cloud y Machine Learning. Disfruto aprender nuevas tecnologías, resolver problemas y trabajar en equipo para convertir ideas en soluciones útiles.
 
-- 🎓 **Formación:** Ingeniería de Sistemas — Universidad de Medellín.
-- 💻 **Interés principal:** desarrollo de software y aplicaciones web Full Stack.
-- 📊 **Interés complementario:** ciencia de datos y Machine Learning.
-- ☁️ **Experiencia en proyectos:** APIs REST, bases de datos y despliegues en AWS.
-- 🏆 **Reconocimiento:** ganador de la Feria del Software 2025 de la Universidad de Medellín con Tramix.
+- **Formación:** Ingeniería de Sistemas - Universidad de Medellín.
+- **Interés principal:** desarrollo de software y aplicaciones web Full Stack.
+- **Interés complementario:** ciencia de datos y Machine Learning.
+- **Experiencia en proyectos:** APIs REST, bases de datos y despliegues en AWS.
 
 ## Tecnologías y herramientas
 
